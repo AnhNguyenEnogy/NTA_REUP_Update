@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/AnhNguyenEnogy/NTA_REUP_Update/releases/download/V1.0.0/NTA_REUP_1.0.0.zip",
-  "sha256": "sha256:7bd4510ac3aa7ec64b410768236b21de2de5e7bc2840adfec8a21ab8b93eac2b",
+  "sha256": "sha256:294105cb57d8640e75b6b6ef23695c43683aa09a5caae8537a9612d23949e322",
   "description": "Cập nhật NTA_REUP V1.0.0:\n- Bản phát hành chính thức đầu tiên của công cụ NTA_REUP V1.0.0.\n- Tích hợp tự động lồng tiếng tiếng Việt thông qua dịch vụ CapCut voice.\n- Hỗ trợ ghép phụ đề, tách giọng nói, và tối ưu hóa video."
 }
