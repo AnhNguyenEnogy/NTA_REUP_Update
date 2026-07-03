@@ -1,0 +1,6 @@
+{
+  "version": "4.5.0.4",
+  "url": "https://github.com/AnhNguyenEnogy/NTA_REUP_Update/releases/download/V4.5.0.4/NTA_REUP_4.5.0.4.zip",
+  "sha256": "sha256:a63c60898120b4e78f2dc591c2f3bb4be86bdfb76748e4064863dda5935bc316",
+  "description": "Cập nhật NTA_REUP V4.5.0.4:\n- Bản phát hành chính thức đầu tiên của công cụ NTA_REUP.\n- Tích hợp tự động lồng tiếng tiếng Việt thông qua dịch vụ CapCut voice.\n- Hỗ trợ ghép phụ đề, tách giọng nói, và tối ưu hóa video."
+}
